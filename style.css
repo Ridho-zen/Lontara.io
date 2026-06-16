@@ -244,8 +244,8 @@
     transition: transform 0.15s ease, background 0.15s ease;
     z-index: 20;
     -webkit-tap-highlight-color: transparent;
-    margin-bottom: 35px;
-    margin-left: 6px;
+    margin-bottom: 40px;
+    margin-left: 12px;
   }
 
   .fab:hover { background: var(--color-accent-dark); }
